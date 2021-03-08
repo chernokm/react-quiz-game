@@ -1,0 +1,13 @@
+.post-container {
+  margin: 1rem 0;
+  background: rgb(36, 223, 107);
+  border-radius: 0.25rem;
+  border-color: black;
+  border-style: solid;
+  position: relative;
+  padding: 1rem;
+}
+
+.post-text__name {
+  font-style: italic;
+}
