@@ -62,7 +62,7 @@ function Game() {
 
     return (
         <>
-            <Stats score={score} questionNumber={questionNumber} totalQuestions={numQuestions} questionDifficulty={difficulty}></Stats>
+            <Stats score={score} questionNumber={questionNumber} totalQuestions={numQuestions} ></Stats>
             {pageContent}
             
         </>
